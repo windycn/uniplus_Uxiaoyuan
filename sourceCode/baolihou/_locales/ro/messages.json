@@ -1,0 +1,650 @@
+{
+  "anchorAuthor": {
+    "description": "Author shown on about tab.",
+    "message": "<a href=mailto:i@gerald.top>Gerald</a>"
+  },
+  "anchorTranslator": {
+    "description": "Translator shown on about tab.",
+    "message": "<a href=\"http://www.forumit.ro/\">Nicolae Crefelean</a>, <a  href=mailto:cristian.silaghi@mozilla.ro>Cristian Silaghi</a>"
+  },
+  "buttonCancel": {
+    "description": "Cancel button on dialog.",
+    "message": "Anulează"
+  },
+  "buttonClose": {
+    "description": "Button to close window.",
+    "message": "Închide"
+  },
+  "buttonConfirmInstallation": {
+    "description": "Button to confirm installation of a script.",
+    "message": "Confirmă instalarea"
+  },
+  "buttonDisable": {
+    "description": "Button to disable a script.",
+    "message": "Dezactivează"
+  },
+  "buttonEdit": {
+    "description": "Button to edit a script.",
+    "message": "Editează"
+  },
+  "buttonEnable": {
+    "description": "Button to enable a script.",
+    "message": "Activează"
+  },
+  "buttonExportData": {
+    "description": "Button to open the data export dialog.",
+    "message": "Exportă în zip"
+  },
+  "buttonFilter": {
+    "description": "Button to show filters menu.",
+    "message": "Filtre"
+  },
+  "buttonHome": {
+    "description": "Button to open homepage.",
+    "message": "Pagină de start"
+  },
+  "buttonImportData": {
+    "description": "Button to choose a file for data import.",
+    "message": "Importă din zip"
+  },
+  "buttonInstallFromURL": {
+    "description": "Button to ask for URL of a user script.",
+    "message": "Instalează din URL"
+  },
+  "buttonInstallOptions": {
+    "description": "Button to show options of installation confirm page.",
+    "message": "Opțiuni"
+  },
+  "buttonNew": {
+    "description": "Button to create a new script.",
+    "message": "Nou"
+  },
+  "buttonOK": {
+    "description": "OK button on dialog.",
+    "message": "Ok"
+  },
+  "buttonRemove": {
+    "description": "Button to remove a script.",
+    "message": "Elimină"
+  },
+  "buttonReplace": {
+    "description": "Button to replace the current match.",
+    "message": "Înlocuiește"
+  },
+  "buttonReplaceAll": {
+    "description": "Button to replace all matches.",
+    "message": "Toate"
+  },
+  "buttonReset": {
+    "description": "Button to reset to default values.",
+    "message": "Resetează"
+  },
+  "buttonSave": {
+    "description": "Button to save modifications of a script.",
+    "message": "Salvează"
+  },
+  "buttonSaveBlacklist": {
+    "description": "Button to save global blacklist.",
+    "message": "Salvează"
+  },
+  "buttonSaveClose": {
+    "description": "Button to save modifications of a script and then close the editing page.",
+    "message": "Salvează și închide"
+  },
+  "buttonSaveCustomCSS": {
+    "description": "Label for button to save custom CSS.",
+    "message": "Salvează"
+  },
+  "buttonSupport": {
+    "description": "Button to open support page.",
+    "message": "Pagină de asistență"
+  },
+  "buttonUndo": {
+    "description": "Button to undo removement of a script.",
+    "message": "Revocă eliminarea"
+  },
+  "buttonUpdate": {
+    "description": "Check a script for updates.",
+    "message": "Caută actualizări"
+  },
+  "buttonUpdateAll": {
+    "description": "Check all scripts for updates.",
+    "message": "Caută actualizări pentru toate"
+  },
+  "buttonVacuum": {
+    "description": "Button to vacuum extension data.",
+    "message": "Curăță baza de date"
+  },
+  "buttonVacuumed": {
+    "description": "Message shown when data is vacuumed.",
+    "message": "Date curățate"
+  },
+  "buttonVacuuming": {
+    "description": "Message shown when data vacuum is in progress.",
+    "message": "Se curăță datele..."
+  },
+  "confirmNotSaved": {
+    "description": "Confirm message shown when there are unsaved script modifications.",
+    "message": "Modificările nu sunt salvate!\nClic pe Ok pentru a le ignora sau Anulează pentru a rămâne."
+  },
+  "descBlacklist": {
+    "description": "HTML Description for the global blacklist.",
+    "message": "Scripturile nu vor fi injectate în URL-urile corespondente acestei liste."
+  },
+  "descCustomCSS": {
+    "description": "Description of custom CSS section.",
+    "message": "CSS personalizat pentru pagina cu opțiuni și pagina de instalare a scripturilor. Dacă nu ești sigur despre ce este vorba, te rugăm să nu editezi."
+  },
+  "editLabelMeta": {
+    "description": "Metadata section in settings tab of script editor.",
+    "message": "Metadate personalizate"
+  },
+  "editLabelSettings": {
+    "description": "Settings section in settings tab of script editor.",
+    "message": "Setările scriptului"
+  },
+  "editNavCode": {
+    "description": "Label of code tab in script editor.",
+    "message": "Cod"
+  },
+  "editNavSettings": {
+    "description": "Label of settings tab in script editor.",
+    "message": "Setări"
+  },
+  "editNavValues": {
+    "description": "Label of values tab in script editor.",
+    "message": "Valori"
+  },
+  "editValueCancel": {
+    "description": "Button to cancel modification of a script value.",
+    "message": "Anulează"
+  },
+  "editValueSave": {
+    "description": "Button to save modification of a script value.",
+    "message": "Salvează"
+  },
+  "extDescription": {
+    "description": "Description for this extension.",
+    "message": "Oferă suport dedicat userscripturilor pentru browsere."
+  },
+  "extName": {
+    "description": "Name of this extension.",
+    "message": "Violentmonkey"
+  },
+  "filterAlphabeticalOrder": {
+    "description": "Label for option to sort scripts in alphabetical order.",
+    "message": "ordinea alfabetică"
+  },
+  "filterExecutionOrder": {
+    "description": "Label for option to sort scripts in execution order.",
+    "message": "ordinea executărilor"
+  },
+  "filterLastUpdateOrder": {
+    "description": "Label for option to sort scripts by last update time.",
+    "message": "last update time"
+  },
+  "hintInputURL": {
+    "description": "Hint for a prompt box to input URL of a user script.",
+    "message": "Introdu URL-ul:"
+  },
+  "hintUseDownloadURL": {
+    "description": "Shown as a place holder for @updateURL when it is not assigned",
+    "message": "Folosește @downloadURL"
+  },
+  "hintVacuum": {
+    "description": "Hint for vacuuming data.",
+    "message": "Înlătură datele redundante și încearcă să reîncarce resursele lipsă din cache."
+  },
+  "installFrom": {
+    "description": "Label for button to install script from a userscript site.",
+    "message": "Instalează din $1"
+  },
+  "installOptionClose": {
+    "description": "Option to close confirm window after installation.",
+    "message": "Închide după instalare"
+  },
+  "installOptionTrack": {
+    "description": "Option to track the loading local file before window is closed.",
+    "message": "Urmărește fișierul local înainte de închiderea acestei ferestre"
+  },
+  "labelAbout": {
+    "description": "Label shown on top of the about page.",
+    "message": "Despre Violentmonkey"
+  },
+  "labelAdvanced": {
+    "description": "Label for button to show advanced settings.",
+    "message": "Avansat"
+  },
+  "labelAllowUpdate": {
+    "description": "Option to allow checking updates for a script.",
+    "message": "Permite actualizarea"
+  },
+  "labelAuthor": {
+    "description": "Label of author shown in the details of a script.",
+    "message": "Autor: "
+  },
+  "labelAutoReloadCurrentTab": {
+    "description": "Option to reload current tab after a script is switched on or off from menu.",
+    "message": "Reîncarcă fila actuală după activarea/dezactivarea unui script din meniu"
+  },
+  "labelAutoUpdate": {
+    "description": "Option to allow automatically checking scripts for updates every 24 hours.",
+    "message": "Caută zilnic actualizări pentru scripturi, în mod automat"
+  },
+  "labelBadge": {
+    "description": "Label for option to show number on badge.",
+    "message": "Afișează pe insignă: "
+  },
+  "labelBadgeNone": {
+    "description": "Option to display nothing on badge.",
+    "message": "nimic"
+  },
+  "labelBadgeTotal": {
+    "description": "Option to display total number of running scripts on badge.",
+    "message": "numărul scripturilor care rulează"
+  },
+  "labelBadgeUnique": {
+    "description": "Option to display number of unique running scripts on badge.",
+    "message": "numărul scripturilor unice care rulează"
+  },
+  "labelBlacklist": {
+    "description": "Label for global blacklist settings in security section.",
+    "message": "Listă neagră"
+  },
+  "labelCurrentLang": {
+    "description": "Label of current language.",
+    "message": "Limba actuală: "
+  },
+  "labelCustomCSS": {
+    "description": "Label for custom CSS section.",
+    "message": "Stil personalizat"
+  },
+  "labelDataExport": {
+    "description": "Section title of data export.",
+    "message": "Exportare de date"
+  },
+  "labelDataImport": {
+    "description": "Section title of data import.",
+    "message": "Importare de date"
+  },
+  "labelDonate": {
+    "description": "Label of link to donate page.",
+    "message": "Donează"
+  },
+  "labelDownloadURL": {
+    "description": "Label of script @downloadURL in custom meta data.",
+    "message": "URL pentru descărcare:"
+  },
+  "labelEditValue": {
+    "description": "Label shown in the panel to edit a script value.",
+    "message": "Editarea valorii scriptului"
+  },
+  "labelEditing": {
+    "description": "Label for current editing script",
+    "message": "Editare în prezent: "
+  },
+  "labelEditor": {
+    "description": "Label for Editor settings",
+    "message": "Editor"
+  },
+  "labelExclude": {
+    "description": "Label of @exclude rules.",
+    "message": "Reguli @exclude"
+  },
+  "labelExcludeMatch": {
+    "description": "Label of @exclude-match rules.",
+    "message": "Reguli @exclude-match"
+  },
+  "labelExportScriptData": {
+    "description": "Option to export script data along with scripts.",
+    "message": "Exportă datele scripturilor"
+  },
+  "labelFeedback": {
+    "description": "Label of link to feedback page.",
+    "message": "Feedback"
+  },
+  "labelFilterSort": {
+    "description": "Label for sort filter.",
+    "message": "Sortează după $1"
+  },
+  "labelGeneral": {
+    "description": "Label for general settings.",
+    "message": "Generale"
+  },
+  "labelHelpTranslate": {
+    "description": "Label for link to localization guide in about tab",
+    "message": "Ajută la traducere"
+  },
+  "labelHomepage": {
+    "description": "Label for home page in about tab.",
+    "message": "Pagină de start"
+  },
+  "labelHomepageURL": {
+    "description": "Label of script @homepageURL in custom meta data.",
+    "message": "URL pentru pagina de start:"
+  },
+  "labelImportSettings": {
+    "description": "Label for option to import settings from zip file.",
+    "message": "Importă setări"
+  },
+  "labelInclude": {
+    "description": "Label of @include rules.",
+    "message": "Reguli @include"
+  },
+  "labelIndentUnit": {
+    "description": "Label for editor option of indent unit size.",
+    "message": "Unitate de indentare:"
+  },
+  "labelInjectionMode": {
+    "description": "Label for default option to inject scripts.",
+    "message": "Modul de injectare implicit: "
+  },
+  "labelInstall": {
+    "description": "Shown in the title of the confirm page while trying to install a script.",
+    "message": "Instalarea scriptului"
+  },
+  "labelKeepOriginal": {
+    "description": "Option to keep the original match or ignore rules.",
+    "message": "Păstrează valoarea(ile) originală(e)"
+  },
+  "labelLastUpdatedAt": {
+    "description": "Label shown on last updated time.",
+    "message": "Ultima actualizare în $1"
+  },
+  "labelLineNumber": {
+    "description": "Label for line number jumper.",
+    "message": "Rândul nr.: "
+  },
+  "labelLineWrapping": {
+    "description": "Label for editor option of line wrapping.",
+    "message": "Desparte rândurile lungi"
+  },
+  "labelMatch": {
+    "description": "Label of @match rules.",
+    "message": "Reguli @match"
+  },
+  "labelName": {
+    "description": "Label of script name.",
+    "message": "Nume:"
+  },
+  "labelNoName": {
+    "description": "Text as the name of a script when no @name is assigned.",
+    "message": "Fără nume"
+  },
+  "labelNoScripts": {
+    "description": "Message shown when no script is installed.",
+    "message": "Ups, încă nu ai niciun script."
+  },
+  "labelNoSearchScripts": {
+    "description": "Message shown when no script is found in search results.",
+    "message": "Nu a fost găsit niciun script."
+  },
+  "labelNotifyUpdates": {
+    "description": "Option to show notification when script is updated.",
+    "message": "Notifică la actualizările scripturilor"
+  },
+  "labelRelated": {
+    "description": "Label of related links.",
+    "message": "Linkuri relevante: "
+  },
+  "labelRemoved": {
+    "description": "Label shown when a script is removed.",
+    "message": "[Eliminat]"
+  },
+  "labelReplace": {
+    "description": "Label for replace input in search box.",
+    "message": "Înlocuiește cu: "
+  },
+  "labelRunAt": {
+    "description": "Label of script @run-at properties in custom meta data.",
+    "message": "Momentul rulării:"
+  },
+  "labelRunAtDefault": {
+    "description": "Shown when custom @run-at is not assigned.",
+    "message": "(Implicit)"
+  },
+  "labelScriptTemplate": {
+    "description": "Label for custom script template.",
+    "message": "Șablon personalizat pentru scripturi"
+  },
+  "labelSearch": {
+    "description": "Label for search input in search box.",
+    "message": "Caută: "
+  },
+  "labelSearchScript": {
+    "description": "Placeholder for script search box.",
+    "message": "Caută scripturi..."
+  },
+  "labelSettings": {
+    "description": "Label shown on the top of settings page",
+    "message": "Setări"
+  },
+  "labelSync": {
+    "description": "Label for sync options.",
+    "message": "Sincronizare"
+  },
+  "labelSyncAuthorize": {
+    "description": "Label for button to authorize a service.",
+    "message": "Autorizează"
+  },
+  "labelSyncAuthorizing": {
+    "description": "Label for button when authorization is in progress.",
+    "message": "Se autorizează"
+  },
+  "labelSyncDisabled": {
+    "description": "Label for option to disable sync service.",
+    "message": "Niciunul"
+  },
+  "labelSyncRevoke": {
+    "description": "Label for button to revoke authorization for a service.",
+    "message": "Revocă"
+  },
+  "labelSyncScriptStatus": {
+    "description": "Label for option to sync script status.",
+    "message": "Sincronizează starea scripturilor"
+  },
+  "labelSyncService": {
+    "description": "Label for sync service select.",
+    "message": "Sincronizează cu"
+  },
+  "labelTranslator": {
+    "description": "Label of translator.",
+    "message": "Traducător: "
+  },
+  "labelUpdateURL": {
+    "description": "Label of script @updateURL in custom meta data.",
+    "message": "URL pentru actualizare:"
+  },
+  "lastSync": {
+    "description": "Label for last sync timestamp.",
+    "message": "Ultima sincronizare în $1"
+  },
+  "learnBlacklist": {
+    "description": "Refers to a link to introduce blacklist patterns.",
+    "message": "Află mai multe despre tiparele listei negre."
+  },
+  "learnInjectionMode": {
+    "description": "Refers to a link to introduce injection modes.",
+    "message": "Află mai multe despre modurile de injectare."
+  },
+  "menuCommands": {
+    "description": "Menu item to list script commands.",
+    "message": "Comenzi pentru scripturi"
+  },
+  "menuDashboard": {
+    "description": "Label for menu item to open dashboard.",
+    "message": "Deschide tabloul de bord"
+  },
+  "menuFindScripts": {
+    "description": "Menu item to find scripts for a site.",
+    "message": "Găsește scripturi pentru acest site"
+  },
+  "menuMatchedScripts": {
+    "description": "Label for menu listing matched scripts.",
+    "message": "Scripturi care corespund paginii"
+  },
+  "menuNewScript": {
+    "description": "Menu item to create a new script.",
+    "message": "Creează un script nou"
+  },
+  "menuScriptDisabled": {
+    "description": "Menu item showing the status of Violentmonkey, when disabled.",
+    "message": "Scripturi dezactivate"
+  },
+  "menuScriptEnabled": {
+    "description": "Menu item showing the status of Violentmonkey, when enabled.",
+    "message": "Scripturi activate"
+  },
+  "msgCheckingForUpdate": {
+    "description": "Message shown when a script is being checked for updates by version numbers.",
+    "message": "Se caută actualizări..."
+  },
+  "msgErrorFetchingScript": {
+    "description": "Message shown when Violentmonkey fails fetching a new version of the script.",
+    "message": "Eroare la preluarea scriptului!"
+  },
+  "msgErrorFetchingUpdateInfo": {
+    "description": "Message shown when Violentmonkey fails fetching version data of the script.",
+    "message": "Eșec la preluarea informațiilor de actualizare."
+  },
+  "msgErrorLoadingData": {
+    "description": "Message shown on confirm page when the script to be installed cannot be loaded.",
+    "message": "Eroare la încărcarea datelor scriptului."
+  },
+  "msgErrorLoadingDependency": {
+    "description": "Message shown when not all requirements are loaded successfully.",
+    "message": "Eroare la încărcarea dependințelor."
+  },
+  "msgImported": {
+    "description": "Message shown after import. There is an argument referring to the count of scripts imported.",
+    "message": "$1 obiect(e) importat(e)."
+  },
+  "msgInstalled": {
+    "description": "Message shown when a script is installed.",
+    "message": "Script instalat."
+  },
+  "msgInvalidScript": {
+    "description": "Message shown when script is invalid.",
+    "message": "Script nevalid!"
+  },
+  "msgLoadedData": {
+    "description": "Message shown in the confirm page when a javascript file to be installed is loaded.",
+    "message": "Datele scriptului sunt încărcate."
+  },
+  "msgLoading": {
+    "description": "Message shown in the options page before script list is loaded.",
+    "message": "Se încarcă..."
+  },
+  "msgLoadingData": {
+    "description": "Message shown on confirm page when the script to be installed is loading.",
+    "message": "Se încarcă datele scriptului..."
+  },
+  "msgLoadingDependency": {
+    "description": "Message shown on confirm page when the requirements are being downloaded.",
+    "message": "Se încarcă dependințele... ($1/$2)"
+  },
+  "msgNamespaceConflict": {
+    "description": "Message shown when namespace of the new script conflicts with an existent one.",
+    "message": "Conflicte în namespace-ul scriptului! Te rugăm să modifici @name și @namespace."
+  },
+  "msgNewVersion": {
+    "description": "Message shown when a new version of script is found by @updateURL, but no @downloadURL is provided.",
+    "message": "O nouă versiune a fost găsită."
+  },
+  "msgNoUpdate": {
+    "description": "Message shown when there is no new version of a script.",
+    "message": "Nu au fost găsite actualizări."
+  },
+  "msgSavedBlacklist": {
+    "description": "Message shown when blacklist are saved.",
+    "message": "Lista neagră este actualizată."
+  },
+  "msgSavedCustomCSS": {
+    "description": "Message shown when custom CSS is saved.",
+    "message": "Stilul personalizat este actualizat."
+  },
+  "msgSavedScriptTemplate": {
+    "description": "Message shown when custom script template is saved.",
+    "message": "Șablonul personalizat pentru scripturi este actualizat."
+  },
+  "msgScriptUpdated": {
+    "description": "Notification message for script updates.",
+    "message": "Scriptul [$1] este actualizat!"
+  },
+  "msgSyncError": {
+    "description": "Message shown when sync failed.",
+    "message": "Eroare la sincronizare!"
+  },
+  "msgSyncInit": {
+    "description": "Message shown when sync service is initializing.",
+    "message": "Se inițializează..."
+  },
+  "msgSyncInitError": {
+    "description": "Message shown when sync fails in initialization.",
+    "message": "Eroare la inițializare!"
+  },
+  "msgSyncReady": {
+    "description": "Message shown when sync will start soon.",
+    "message": "Sincronizarea va începe în curând..."
+  },
+  "msgSyncing": {
+    "description": "Message shown when sync is in progress.",
+    "message": "Sincronizare în desfășurare..."
+  },
+  "msgUpdated": {
+    "description": "Message shown when a script is updated/reinstalled.",
+    "message": "Script actualizat."
+  },
+  "msgUpdating": {
+    "description": "Message shown when a new version of script is being fetched.",
+    "message": "Se actualizează..."
+  },
+  "noValues": {
+    "description": "Label shown when there is no value for current script.",
+    "message": "Nu este stocată nicio valoare"
+  },
+  "optionShowEnabledFirst": {
+    "description": "Option to show enabled scripts first in alphabetical order.",
+    "message": "Afișează mai întâi scripturile activate"
+  },
+  "searchCaseSensitive": {
+    "description": "Option to perform a case-sensitive search",
+    "message": "Sensibil la scrierea cu litere mari și mici"
+  },
+  "searchUseRegex": {
+    "description": "Option to perform a regular expression search",
+    "message": "Folosește regex"
+  },
+  "sideMenuAbout": {
+    "description": "Side menu: About",
+    "message": "Despre"
+  },
+  "sideMenuInstalled": {
+    "description": "Side menu: Installed scripts",
+    "message": "Scripturi instalate"
+  },
+  "sideMenuSettings": {
+    "description": "Side menu: Settings",
+    "message": "Setări"
+  },
+  "titleScriptUpdated": {
+    "description": "Notification title for script updates.",
+    "message": "Actualizare"
+  },
+  "valueLabelKey": {
+    "description": "Label for key of a script value.",
+    "message": "Cheie (șir de caractere)"
+  },
+  "valueLabelValue": {
+    "description": "Label for value of a script value.",
+    "message": "Valoare (serializată ca JSON)"
+  },
+  "visitWebsite": {
+    "description": "Label for link to open Violentmonkey website.",
+    "message": "Vizitează site-ul web"
+  },
+  "warnScriptLongLines": {
+    "description": "Warning message shown when script has lines that are too long to be edited.",
+    "message": "Unele rânduri sunt prea lungi, se deschide în modul numai citire. Te  rugăm să editezi cu un editor extern."
+  }
+}
